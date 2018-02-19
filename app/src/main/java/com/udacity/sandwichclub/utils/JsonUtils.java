@@ -35,20 +35,20 @@ public class JsonUtils {
         try {
             JSONObject base = new JSONObject(json);
             JSONObject nameObj = base.getJSONObject(KEY_NAME);
-            String name = nameObj.getString(KEY_MAIN_NAME);
+            String name = nameObj.optString(KEY_MAIN_NAME);
 
             JSONArray alsoKnownAsArray = nameObj.getJSONArray(KEY_KNOWN_AS);
             for (int i = 0; i < alsoKnownAsArray.length(); i++) {
                 alsoKnownAs.add(alsoKnownAsArray.getString(i));
             }
 
-            String placeOfOrigin = base.getString(KEY_ORIGIN);
-            String description = base.getString(KEY_DESCRIPTION);
-            String image = base.getString(KEY_IMAGE);
+            String placeOfOrigin = base.optString(KEY_ORIGIN);
+            String description = base.optString(KEY_DESCRIPTION);
+            String image = base.optString(KEY_IMAGE);
 
             JSONArray ingredientsArray = base.getJSONArray(KEY_INGREDIENTS);
             for (int i = 0; i < ingredientsArray.length(); i++) {
-                ingredients.add(ingredientsArray.getString(i));
+                ingredients.add(ingredientsArray.optString(i));
             }
 
             sandwich = new Sandwich(name, alsoKnownAs, placeOfOrigin, description, image, ingredients);
