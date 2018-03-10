@@ -7,6 +7,10 @@ show the details of each sandwich once it is selected.
 ## Screenshots after I completed the project
 ![alt text](https://i.imgur.com/KsV10Gv.jpg) ![alt text](https://i.imgur.com/korRind.jpg)
 
+## Libraries & Implementations & Additional Content
+[ButterKnife](https://github.com/JakeWharton/butterknife)
+[Picasso](https://github.com/square/picasso) 
+
 ## Why this Project
 
 Building a layout and populating its fields from data received as JSON
