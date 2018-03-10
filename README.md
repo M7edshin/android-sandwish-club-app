@@ -4,12 +4,17 @@
 In this project, you will complete the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
 
-## Screenshots after I completed the project
+________________________________________________________________________________________________________________________________
+# Project Completion
+
+## Screenshots
 ![alt text](https://i.imgur.com/KsV10Gv.jpg) ![alt text](https://i.imgur.com/korRind.jpg)
 
 ## Libraries & Implementations & Additional Content
 [ButterKnife](https://github.com/JakeWharton/butterknife)
+
 [Picasso](https://github.com/square/picasso) 
+________________________________________________________________________________________________________________________________
 
 ## Why this Project
 
