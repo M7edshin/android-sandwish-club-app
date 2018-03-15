@@ -5,7 +5,7 @@ In this project, you will complete the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
 
 ________________________________________________________________________________________________________________________________
-# Project Completion
+# My Project Completion
 
 ## Screenshots
 ![alt text](https://i.imgur.com/KsV10Gv.jpg) ![alt text](https://i.imgur.com/korRind.jpg)
