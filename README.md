@@ -8,7 +8,7 @@ ________________________________________________________________________________
 # My Project Completion
 
 ## Screenshots
-![alt text](https://i.imgur.com/KsV10Gv.jpg)
+![alt text](https://i.imgur.com/KsV10Gv.jpg) ![alt text](https://i.imgur.com/korRind.jpg)
 
 ## Libraries & Implementations & Additional Content
 [ButterKnife](https://github.com/JakeWharton/butterknife)
