@@ -4,18 +4,6 @@
 In this project, you will complete the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
 
-________________________________________________________________________________________________________________________________
-# Project Completion
-
-## Screenshots
-![alt text](https://i.imgur.com/KsV10Gv.jpg) ![alt text](https://i.imgur.com/korRind.jpg)
-
-## Libraries & Implementations & Additional Content
-[ButterKnife](https://github.com/JakeWharton/butterknife)
-
-[Picasso](https://github.com/square/picasso) 
-________________________________________________________________________________________________________________________________
-
 ## Why this Project
 
 Building a layout and populating its fields from data received as JSON
@@ -36,3 +24,13 @@ Download the [Sandwich Club app starter code.](https://github.com/udacity/sandwi
 Design the layout for the detail activity so the different elements
 display in a sensible way. Implement the JSON parsing in JsonUtils so it
 produces a Sandwich Object that can be used to populate the UI that you designed.
+________________________________________________________________________________________________________________________________
+# Completed
+
+## Screenshots
+![alt text](https://i.imgur.com/KsV10Gv.jpg) ![alt text](https://i.imgur.com/korRind.jpg)
+
+## Libraries & Implementations & Additional Content
+[ButterKnife](https://github.com/JakeWharton/butterknife)
+
+[Picasso](https://github.com/square/picasso) 
